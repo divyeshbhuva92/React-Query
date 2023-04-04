@@ -1,0 +1,133 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "IronMan",
+      "alterEgo": "Tony Stark"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 3,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Scarlet",
+      "alterEgo": "Wanda",
+      "id": 5
+    },
+    {
+      "name": "Black Widow",
+      "alterEgo": "Natasha Romanoff",
+      "id": 6
+    },
+    {
+      "name": "Quicksilver",
+      "alterEgo": "Pietro Maximoff",
+      "id": 7
+    },
+    {
+      "name": "Professor X",
+      "alterEgo": "Charles Xavior",
+      "id": 8
+    },
+    {
+      "name": "Magneto",
+      "alterEgo": "Eric",
+      "id": 9
+    },
+    {
+      "name": "Captain Marvel",
+      "alterEgo": "Carol Danvers",
+      "id": 10
+    },
+    {
+      "name": "Captain America",
+      "alterEgo": "Steve Roggers",
+      "id": 11
+    },
+    {
+      "name": "Hawk Eye",
+      "alterEgo": "Clint",
+      "id": 12
+    },
+    {
+      "name": "hulk",
+      "alterEgo": "Dr. Banner",
+      "id": 13
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "dev@mail.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "cyan"
+    },
+    {
+      "id": 5,
+      "label": "magenta"
+    },
+    {
+      "id": 6,
+      "label": "yellow"
+    },
+    {
+      "id": 7,
+      "label": "black"
+    },
+    {
+      "id": 8,
+      "label": "white"
+    }
+  ]
+}
